@@ -27,9 +27,9 @@ Bot = Client(
 
 db = Database()
 
-START_TEXT = """ `Hai {}, 
-Am a YouTube Downloader Bot I Can Download Songs,Videos and Lyrics From YouTube and lyrics and  Would upload into Telegram. 
-Use /help Commands For More.`
+START_TEXT = """ `ʜᴀɪɪ [!](https://telegra.ph/file/e60277ce9907c60c9d394.jpg) {}, 
+ᴀᴍ ᴀ ʏᴏᴜᴛᴜʙᴇ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ʙᴏᴛ ɪ ᴄᴀɴ ᴅᴏᴡɴʟᴏᴀᴅ sᴏɴɢs, ᴠɪᴅᴇᴏs ᴀɴᴅ ʟʏʀɪᴄs ғʀᴏᴍ ʏᴏᴜᴛᴜʙᴇᴀɴᴅ ʟʏʀɪᴄs ᴀɴᴅ ᴡᴏᴜʟᴅ ᴜᴘʟᴏᴀᴅ ɪɴᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ. 
+ᴜsᴇ / ғᴏʀ ᴄᴏᴍᴍᴀɴᴅs ʟɪsᴛ.`
 """
 
 CMDS_TEXT = """
