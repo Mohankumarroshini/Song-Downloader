@@ -28,10 +28,10 @@ Bot = Client(
 db = Database()
 
 START_TEXT = """ `ʜᴀɪɪ👋 {}, 
-ᴀᴍ ᴀ ʏᴏᴜᴛᴜʙᴇ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ʙᴏᴛ [👸](https://telegra.ph/file/e60277ce9907c60c9d394.jpg) ɪ ᴄᴀɴ ᴅᴏᴡɴʟᴏᴀᴅ sᴏɴɢs, ᴠɪᴅᴇᴏs ᴀɴᴅ ʟʏʀɪᴄs ғʀᴏᴍ ʏᴏᴜᴛᴜʙᴇᴀɴᴅ ʟʏʀɪᴄs ᴀɴᴅ ᴡᴏᴜʟᴅ ᴜᴘʟᴏᴀᴅ ɪɴᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ. 
+ᴀᴍ ᴀ ʏᴏᴜᴛᴜʙᴇ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ʙᴏᴛ. ɪ ᴄᴀɴ ᴅᴏᴡɴʟᴏᴀᴅ sᴏɴɢs, ᴠɪᴅᴇᴏs ᴀɴᴅ ʟʏʀɪᴄs ғʀᴏᴍ ʏᴏᴜᴛᴜʙᴇᴀɴᴅ ʟʏʀɪᴄs ᴀɴᴅ ᴡᴏᴜʟᴅ ᴜᴘʟᴏᴀᴅ ɪɴᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ. 
 ᴜsᴇ /help ғᴏʀ ᴄᴏᴍᴍᴀɴᴅs ʟɪsᴛ.`
 """
-
+START_IMAGE = "https://telegra.ph/file/e60277ce9907c60c9d394.jpg"
 CMDS_TEXT = """
 `Here It is The List of Commamds and Its usage.`
 
@@ -80,25 +80,25 @@ ABOUT_TEXT = """
 """
 START_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Support📕', url=f"https://telegram.me/{Config.SUPPORT}"), 
-        InlineKeyboardButton(text="SEARCH🔎", switch_inline_query_current_chat="")
+        InlineKeyboardButton('sᴜᴘᴘᴏʀᴛ', url=f"https://telegram.me/{Config.SUPPORT}"), 
+        InlineKeyboardButton(text="sᴇᴀʀᴄʜ", switch_inline_query_current_chat="")
         ],[
-        InlineKeyboardButton('HELP & USAGE⚙️', callback_data ='cmds') 
+        InlineKeyboardButton('ʜᴇʟᴘ⚙️', callback_data ='cmds') 
         ],[
-        InlineKeyboardButton('ABOUT📕', callback_data='about'),
-        InlineKeyboardButton('CLOSE🔐', callback_data='close')
+        InlineKeyboardButton('ᴀʙᴏᴜᴛ📕', callback_data='about'),
+        InlineKeyboardButton('ᴄʟᴏsᴇ🔐', callback_data='close')
         ]]
     )
 CMDS_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('HOME🏡', callback_data='home'),
-        InlineKeyboardButton('CLOSE🔐', callback_data='close')
+        InlineKeyboardButton('ʜᴏᴍᴇ🏡', callback_data='home'),
+        InlineKeyboardButton('ᴄʟᴏsᴇ🔐', callback_data='close')
         ]]
     )
 ABOUT_BUTTONS = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('HOME🏡', callback_data='home'),
-        InlineKeyboardButton('CLOSE🔐', callback_data='close')
+        InlineKeyboardButton('ʜᴏᴍᴇ🏡', callback_data='home'),
+        InlineKeyboardButton('ᴄʟᴏsᴇ🔐', callback_data='close')
         ]]
     )
 
