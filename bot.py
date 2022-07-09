@@ -52,13 +52,29 @@ CMDS_TEXT = """
 """
 
 ABOUT_TEXT = """
-- **Bot :** `Weibe Songs`
-- **Creator :** [MSD](https://t.me/my_dear_lightbright)
-- **Support :** [CLICK HERE](https://telegram.me/mastro_SUPPORT)
-- **Source :** [CLICK HERE](https://t.me/my_dear_lightbright)
-- **Language :** [Python3](https://python.org)
-- **Library :** [Pyrogram](https://pyrogram.org)
-- **Server :** [Heroku](https://heroku.com)
+╭────[➪..𝙍𝙃𝙀𝘼 ✘ 𝘽𝙊𝙏.♪]───⍟
+│
+│
+│
+├🤖 Bot Name : [➪..𝙍𝙃𝙀𝘼 ✘ 𝘽𝙊𝙏.♪](t.me/rheaxbot)
+│
+├📢 Update Channel : [ᴏʟʏᴍᴘᴜsxɴᴇᴛᴡᴏʀᴋ](t.me/olympusXnetwork)
+│
+├👥 Support Chat : [ᴏʟʏᴍᴘᴜsᴄʜᴀᴛᴛɪɴɢ](t.me/OlympusChatting)
+│
+├💢 Source :[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/IamBluedragon)
+│
+├🌐 Server : [ʜᴇʀᴏᴋᴜ](https://heroku.com/)
+│
+├📕 Data Base : [ᴍᴏɴɢᴏ ᴅʙ](https://mongodb.com/)
+│
+├㊙ Language: [ᴘʏᴛʜᴏɴ](https://www.python.org/)
+│
+├👨‍💻 Developer : [✭ எம்.எஸ்.டி ✭](https://t.me/my_dear_lightbright)
+│
+├🚸 Powered By : [ᴏʟʏᴍᴘᴜsxɴᴇᴛᴡᴏʀᴋ](t.me/olympusXnetwork)
+
+╰──────[Thanks 😊]───⍟
 
 """
 START_BUTTONS = InlineKeyboardMarkup(
