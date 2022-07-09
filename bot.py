@@ -27,9 +27,9 @@ Bot = Client(
 
 db = Database()
 
-START_TEXT = """ `ʜᴀɪɪ [!](https://telegra.ph/file/e60277ce9907c60c9d394.jpg) {}, 
+START_TEXT = """ `ʜᴀɪɪ[!](https://telegra.ph/file/e60277ce9907c60c9d394.jpg) {}, 
 ᴀᴍ ᴀ ʏᴏᴜᴛᴜʙᴇ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ʙᴏᴛ ɪ ᴄᴀɴ ᴅᴏᴡɴʟᴏᴀᴅ sᴏɴɢs, ᴠɪᴅᴇᴏs ᴀɴᴅ ʟʏʀɪᴄs ғʀᴏᴍ ʏᴏᴜᴛᴜʙᴇᴀɴᴅ ʟʏʀɪᴄs ᴀɴᴅ ᴡᴏᴜʟᴅ ᴜᴘʟᴏᴀᴅ ɪɴᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ. 
-ᴜsᴇ / ғᴏʀ ᴄᴏᴍᴍᴀɴᴅs ʟɪsᴛ.`
+ᴜsᴇ /help ғᴏʀ ᴄᴏᴍᴍᴀɴᴅs ʟɪsᴛ.`
 """
 
 CMDS_TEXT = """
@@ -52,13 +52,13 @@ CMDS_TEXT = """
 """
 
 ABOUT_TEXT = """
+
 ╭────[➪..𝙍𝙃𝙀𝘼 ✘ 𝘽𝙊𝙏.♪]───⍟
-│
 │
 │
 ├🤖 Bot Name : [➪..𝙍𝙃𝙀𝘼 ✘ 𝘽𝙊𝙏.♪](t.me/rheaxbot)
 │
-├📢 Update Channel : [ᴏʟʏᴍᴘᴜsxɴᴇᴛᴡᴏʀᴋ](t.me/olympusXnetwork)
+├📢 Update Channel : [ᴏʟʏᴍᴘᴜs](t.me/olympusXnetwork)
 │
 ├👥 Support Chat : [ᴏʟʏᴍᴘᴜsᴄʜᴀᴛᴛɪɴɢ](t.me/OlympusChatting)
 │
@@ -73,7 +73,8 @@ ABOUT_TEXT = """
 ├👨‍💻 Developer : [✭ எம்.எஸ்.டி ✭](https://t.me/my_dear_lightbright)
 │
 ├🚸 Powered By : [ᴏʟʏᴍᴘᴜsxɴᴇᴛᴡᴏʀᴋ](t.me/olympusXnetwork)
-
+✰
+│
 ╰──────[Thanks 😊]───⍟
 
 """
